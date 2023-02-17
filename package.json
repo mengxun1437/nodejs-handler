@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-handler",
+  "version": "1.0.0",
+  "description": "simple functions for nodejs api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengxun/nodejs-handler.git"
+  },
+  "keywords": [],
+  "author": "mengxun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengxun/nodejs-handler/issues"
+  },
+  "homepage": "https://github.com/mengxun/nodejs-handler#readme",
+  "dependencies": {}
+}

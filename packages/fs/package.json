@@ -1,0 +1,15 @@
+{
+  "name": "@mengxun/nodejs-handler-fs",
+  "version": "0.0.1",
+  "description": "nodejs-handler-fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mengxun",
+  "license": "ISC",
+  "dependencies": {
+    "@mengxun/nodejs-handler-utils": "workspace:^0.0.1"
+  }
+}

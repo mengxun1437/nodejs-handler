@@ -1,0 +1,9 @@
+lockfileVersion: 5.4
+
+importers:
+
+  packages/fs:
+    specifiers:
+      '@mengxun/nodejs-handler-utils': workspace:^0.0.1
+    dependencies:
+      '@mengxun/nodejs-handler-utils': link:../utils
