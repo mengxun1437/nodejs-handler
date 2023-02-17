@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mengxun/nodejs-handler.git"
+    "url": "git+https://github.com/mengxun1437/nodejs-handler.git"
   },
   "keywords": [],
   "author": "mengxun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mengxun/nodejs-handler/issues"
+    "url": "https://github.com/mengxun1437/nodejs-handler/issues"
   },
-  "homepage": "https://github.com/mengxun/nodejs-handler#readme",
+  "homepage": "https://github.com/mengxun1437/nodejs-handler#readme",
   "dependencies": {}
 }
